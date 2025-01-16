@@ -10,4 +10,4 @@ Este projeto é uma tela de login funcional desenvolvida como parte de um proces
 ## Como Rodar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com//josemariosilva/telaDeLogin
+   git clone https://github.com/josemariosilva/telaDeLogin.git
